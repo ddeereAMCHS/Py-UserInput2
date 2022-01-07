@@ -1,8 +1,8 @@
 # UserInput2
 
 - Create a program called `UserInput2.py`
-- Prompt the user to enter their full name
-- Using substring and indexOf, create a variable that is the user's first name
+- Prompt the user to enter their full name and store that in a variable
+- Create another variable that is the user's first name
 - Prompt the user to enter the number of apples they want to buy
 - Prompt the user to enter the cost of an apple
 - Calculate the total cost of the apples
