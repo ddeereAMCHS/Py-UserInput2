@@ -7,7 +7,7 @@
 - Prompt the user to enter the cost of an apple
 - Calculate the total cost of the apples
 - Print
-  - Hi <FIRSTNAME>, you are buying <NUMAPPLES> apples at $##.## each for a total of $<TOTALCOST>
+  - Hi `FIRSTNAME`, you are buying `NUMAPPLES` apples at $##.## each for a total of $`TOTALCOST`
   
 ***Example Input:***\
 Billy Williams\
