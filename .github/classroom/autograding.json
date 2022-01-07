@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Billy Williams",
+      "setup": "",
+      "run": "python UserInput2.py",
+      "input": "Billy Williams\n3\n2.50",
+      "output": "Hi Billy, you are buying 3 apples at \\$2\\.50 each for a total of \\$7\\.50$",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Joe Bob",
+      "setup": "",
+      "run": "python UserInput2.py",
+      "input": "Joe Bob\n16\n1.30",
+      "output": "Hi Joe, you are buying 16 apples at \\$1\\.30 each for a total of \\$20\\.80$",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
