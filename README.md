@@ -14,5 +14,4 @@ Billy Williams\
 3\
 2.50\
 ***Example Output:***\
-Hi Billy, you are buying 3 apples at $2.50 each for a total of $7.50\
-
+Hi Billy, you are buying 3 apples at $2.50 each for a total of $7.50
